@@ -14,7 +14,7 @@ This project is a simple web page designed with **HTML & CSS**, featuring some l
 ---
 
 ## 🚀 Live Preview  
-[🔗 View the website on netlify Pages](#) *((https://scintillating-monstera-e231aa.netlify.app/))*  
+[🔗 View the website on netlify Pages](#) *(https://scintillating-monstera-e231aa.netlify.app/)*  
 
 ---
 
