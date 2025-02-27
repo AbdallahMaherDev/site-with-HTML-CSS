@@ -14,7 +14,7 @@ This project is a simple web page designed with **HTML & CSS**, featuring some l
 ---
 
 ## 🚀 Live Preview  
-[🔗 View the website on GitHub Pages](#) *(Add the link here after publishing!)*  
+[🔗 View the website on GitHub Pages](#) *([Add the link here after publishing!](https://scintillating-monstera-e231aa.netlify.app/))*  
 
 ---
 
